@@ -1,0 +1,11 @@
+{
+  "filename": "my.mp3",
+  "created": "2012-02-13",
+  "hashes": {
+    "md5": "259a11a986c812566c004c2171f67f2e",
+    "sha1": "026a4935816b349ac57207aeb0e83eeb28583b99",
+    "sha256": "37b3aed7d5a559cbd51d1b9a5de0fcf6d58c4112fb40234c16b1ff37466538c6",
+    "sha3": "15bddb2e7dcc24f04ecb086afa0fdd2191cad2a6cf76995dafc618ff",
+    "crc": "5e65a569"
+  }
+}
